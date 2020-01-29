@@ -34,6 +34,6 @@ module.exports = {
         extensions: ['.jsx', '.js']
       }
     ],
-    'import/prettier-defautl-export': 'off'
+    'import/prettier-default-export': 'off'
   },
 };
